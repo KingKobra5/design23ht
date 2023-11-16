@@ -65,6 +65,11 @@ body {
     font-style: italic;
 }
 
+.main{
+    width: 800px;
+    margin: 0 auto;
+}
+
 /* Footer */
 
 .footer {
@@ -100,10 +105,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-img {
+.logoimg {
     width: 100px;
     height: 120px;
     border-radius: 100%;
+}
+.meimg {
+    width: 800px;
+    height: 120px;
 }
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */

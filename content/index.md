@@ -3,9 +3,14 @@ Title: Home
 Description: This is our index page.
 ---
 
+![image](image/me1.png){.meimg}
+
+
 My Page
 ==========================
 
-The source for this page is in `content/index.md`.
+Hi!
 
-This is a sample home page written in markdown with some frontmatter defined.
+My name is Aras, i'm from Syrien and i'm 20 years old.
+
+I love football and and coding, in my free time i play video games or i watch football thats all. 

@@ -17,6 +17,12 @@ html, body {
     height: 100%;
 }
 
+.logo{
+    margin-left: 17px;
+    margin-top: -25px;
+    margin-right: -10;
+}
+
 /* Placement */
 
 body {

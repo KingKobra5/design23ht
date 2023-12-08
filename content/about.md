@@ -1,6 +1,6 @@
 ---
 Title: About
-Description: This is our index page.
+Description: This is our about page.
 ---
 
 

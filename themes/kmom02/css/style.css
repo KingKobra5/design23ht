@@ -6458,163 +6458,17 @@ readers do not read off random characters that represent icons */
 }
 
 body {
-  background-color: #202021;
+  background-color: #3d5a80;
 }
 
 * {
   color: #000;
 }
 
-.header {
-  background-color: #cf7e01;
-  border-bottom: 5px solid rgb(0, 0, 0);
-}
-
 * {
-  box-sizing: border-box;
-  border: 0 none;
-  margin: 0;
-  padding: 0;
-}
-
-ol, ul {
-  padding-left: 1.5em;
-}
-
-.hidden {
-  display: none !important;
-}
-
-html, body {
-  height: 100%;
-}
-
-.logo {
-  margin-left: 17px;
-  margin-top: -25px;
-  margin-right: -10;
-}
-
-/* Placement */
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-.main {
-  flex: 1 0 auto;
-}
-
-.header, .footer {
-  flex: 0 0 auto;
-}
-
-/* Header */
-.header, .site-header {
-  display: flex;
-  justify-content: space-between;
-}
-
-/* Title */
-.title, .logo {
-  padding: 3em 3em 3em 0;
-}
-
-@media (max-width: 767px) {
-  .title, .logo {
-    padding: 1em 1em 1em 0;
-  }
-  .title {
-    min-width: 50%;
-  }
-  .logo {
-    max-width: 30%;
-  }
-}
-.title * {
-  color: #111;
-}
-
-.title p {
-  font-style: italic;
-}
-
-.main {
-  width: 800px;
-  margin: 0 auto;
-}
-
-/* Footer */
-.footer {
-  display: flex;
-  justify-content: space-between;
-  border-top: 2px solid #000;
-}
-
-.footer a {
-  color: #222;
-}
-
-.footer .social {
-  font-size: 2rem;
-}
-
-/* Typografy */
-body {
-  font-family: sans-serif;
-  line-height: 1.5rem;
-  color: #444;
-}
-
-p, td, th, li, dd {
-  text-align: justify;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
+  font-family: "Roboto", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 0.6em;
-  font-weight: bold;
-}
-
-.logoimg {
-  width: 100px;
-  height: 120px;
-  border-radius: 100%;
-}
-
-.meimg {
-  width: 800px;
-  height: 120px;
-  margin-top: 50px;
-}
-
-/* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
-/* Code */
-code {
-  margin: 0 0.1em;
-  padding: 0.1em 0.2em;
-  border: 1px solid #ccc;
-  border-radius: 0.3em;
-  background: #f5f5f5;
-  font-family: monospace;
-  font-size: 0.85rem;
-  line-height: 1.9824;
-}
-
-pre {
-  padding: 0 1em;
-  border: 1px solid #ccc;
-  border-radius: 0.3em;
-  background: #f5f5f5;
-}
-
-pre code {
-  display: block;
-  margin: 0;
-  padding: 1.1111em 0;
-  border: 0 none;
-  background: transparent;
-  overflow-x: auto;
-  line-height: 1.4;
+  font-family: "Open Sans", sans-serif;
 }
